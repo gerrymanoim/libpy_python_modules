@@ -1,6 +1,6 @@
-# liboy python package template
+# libpy python package template
 
-A template repository for making libpy python packages.
+A template repository for making [libpy](https://github.com/quantopian/libpy) python packages.
 
 Places you need to make changes, generally replacing `your_package_name` or `your-package-name`:
 
