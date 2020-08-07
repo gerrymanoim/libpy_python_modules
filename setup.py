@@ -76,6 +76,7 @@ setup(
     install_requires=install_requires,
     extras_require={
         "test": ["pytest"],
+        "benchmark": ["pytest-benchmark"],
     },
     ext_modules=[
         extension(
