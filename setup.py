@@ -54,10 +54,8 @@ setup(
     author="",
     author_email="",
     packages=find_packages(),
-    license="Apache 2.0",
     classifiers=[
         "Development Status :: 4 - Beta",
-        "License :: OSI Approved :: Apache Software License",
         "Natural Language :: English",
         "Topic :: Software Development",
         "Programming Language :: Python",
