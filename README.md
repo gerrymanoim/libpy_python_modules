@@ -11,6 +11,8 @@ Places you need to make changes, generally replacing `your_package_name` or `you
 - [ ] `.github/workflows/main.yml` which runs the main CI flow
 - [ ] `.github/workflows/release.yml` which pushes out a release once a release is published
 
+Don't forget to add some badges once CI is running and you've published to PyPI (https://badge.fury.io/for/py)
+
 
 ## Requirements
 
