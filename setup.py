@@ -56,7 +56,6 @@ setup(
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
-        "License :: OSI Approved :: Apache Software License",
         "Natural Language :: English",
         "Topic :: Software Development",
         "Programming Language :: Python",
